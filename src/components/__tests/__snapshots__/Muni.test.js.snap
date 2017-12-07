@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Muni renders without crashing 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Muni
+    x={2}
+    y={3}
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "className": undefined,
+      "cx": 2,
+      "cy": 3,
+      "r": 5,
+      "style": Object {
+        "fillOpacity": 0,
+      },
+    },
+    "ref": [Function],
+    "rendered": null,
+    "type": "circle",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "className": undefined,
+        "cx": 2,
+        "cy": 3,
+        "r": 5,
+        "style": Object {
+          "fillOpacity": 0,
+        },
+      },
+      "ref": [Function],
+      "rendered": null,
+      "type": "circle",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;

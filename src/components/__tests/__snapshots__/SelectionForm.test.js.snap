@@ -1,0 +1,635 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Selection Form should match snapshot 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {},
+    "children": Array [
+      Object {
+        "attribs": Object {
+          "class": "well",
+        },
+        "children": Array [
+          Object {
+            "attribs": Object {
+              "class": "form-group",
+            },
+            "children": Array [
+              Object {
+                "attribs": Object {
+                  "class": "control-label",
+                  "for": "formControlsSelectMultiple",
+                },
+                "children": Array [
+                  Object {
+                    "data": "Multiple select",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "text",
+                  },
+                ],
+                "name": "label",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": Object {
+                  "attribs": Object {
+                    "class": "form-control",
+                    "id": "formControlsSelectMultiple",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "value": "all",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": "all",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "option",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": Object {
+                        "attribs": Object {
+                          "value": "test1",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": " test1 ",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "option",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": Object {
+                          "attribs": Object {
+                            "value": "test2",
+                          },
+                          "children": Array [
+                            Object {
+                              "data": " test2 ",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "text",
+                            },
+                          ],
+                          "name": "option",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": [Circular],
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "value": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "value": undefined,
+                          },
+                        },
+                        "parent": [Circular],
+                        "prev": [Circular],
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "value": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "value": undefined,
+                        },
+                      },
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "value": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "value": undefined,
+                      },
+                    },
+                    Object {
+                      "attribs": Object {
+                        "value": "test1",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": " test1 ",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "option",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": Object {
+                        "attribs": Object {
+                          "value": "test2",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": " test2 ",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "option",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": [Circular],
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "value": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "value": undefined,
+                        },
+                      },
+                      "parent": [Circular],
+                      "prev": Object {
+                        "attribs": Object {
+                          "value": "all",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": "all",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "option",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": [Circular],
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "value": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "value": undefined,
+                        },
+                      },
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "value": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "value": undefined,
+                      },
+                    },
+                    Object {
+                      "attribs": Object {
+                        "value": "test2",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": " test2 ",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "option",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": Object {
+                        "attribs": Object {
+                          "value": "test1",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": " test1 ",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "option",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": [Circular],
+                        "parent": [Circular],
+                        "prev": Object {
+                          "attribs": Object {
+                            "value": "all",
+                          },
+                          "children": Array [
+                            Object {
+                              "data": "all",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "text",
+                            },
+                          ],
+                          "name": "option",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": [Circular],
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "value": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "value": undefined,
+                          },
+                        },
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "value": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "value": undefined,
+                        },
+                      },
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "value": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "value": undefined,
+                      },
+                    },
+                  ],
+                  "name": "select",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": [Circular],
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                    "id": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                    "id": undefined,
+                  },
+                },
+                "parent": [Circular],
+                "prev": null,
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                  "for": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                  "for": undefined,
+                },
+              },
+              Object {
+                "attribs": Object {
+                  "class": "form-control",
+                  "id": "formControlsSelectMultiple",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "value": "all",
+                    },
+                    "children": Array [
+                      Object {
+                        "data": "all",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "text",
+                      },
+                    ],
+                    "name": "option",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": Object {
+                      "attribs": Object {
+                        "value": "test1",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": " test1 ",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "option",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": Object {
+                        "attribs": Object {
+                          "value": "test2",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": " test2 ",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "option",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": [Circular],
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "value": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "value": undefined,
+                        },
+                      },
+                      "parent": [Circular],
+                      "prev": [Circular],
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "value": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "value": undefined,
+                      },
+                    },
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "value": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "value": undefined,
+                    },
+                  },
+                  Object {
+                    "attribs": Object {
+                      "value": "test1",
+                    },
+                    "children": Array [
+                      Object {
+                        "data": " test1 ",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "text",
+                      },
+                    ],
+                    "name": "option",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": Object {
+                      "attribs": Object {
+                        "value": "test2",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": " test2 ",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "option",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": [Circular],
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "value": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "value": undefined,
+                      },
+                    },
+                    "parent": [Circular],
+                    "prev": Object {
+                      "attribs": Object {
+                        "value": "all",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": "all",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "option",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": [Circular],
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "value": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "value": undefined,
+                      },
+                    },
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "value": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "value": undefined,
+                    },
+                  },
+                  Object {
+                    "attribs": Object {
+                      "value": "test2",
+                    },
+                    "children": Array [
+                      Object {
+                        "data": " test2 ",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "text",
+                      },
+                    ],
+                    "name": "option",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": Object {
+                      "attribs": Object {
+                        "value": "test1",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": " test1 ",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "option",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": [Circular],
+                      "parent": [Circular],
+                      "prev": Object {
+                        "attribs": Object {
+                          "value": "all",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": "all",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "option",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": [Circular],
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "value": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "value": undefined,
+                        },
+                      },
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "value": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "value": undefined,
+                      },
+                    },
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "value": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "value": undefined,
+                    },
+                  },
+                ],
+                "name": "select",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": null,
+                "parent": [Circular],
+                "prev": Object {
+                  "attribs": Object {
+                    "class": "control-label",
+                    "for": "formControlsSelectMultiple",
+                  },
+                  "children": Array [
+                    Object {
+                      "data": "Multiple select",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "text",
+                    },
+                  ],
+                  "name": "label",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": [Circular],
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                    "for": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                    "for": undefined,
+                  },
+                },
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                  "id": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                  "id": undefined,
+                },
+              },
+            ],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+            },
+          },
+        ],
+        "name": "div",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": null,
+        "parent": [Circular],
+        "prev": null,
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "class": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "class": undefined,
+        },
+      },
+    ],
+    "name": "div",
+    "namespace": "http://www.w3.org/1999/xhtml",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "root": Object {
+      "attribs": Object {},
+      "children": Array [
+        [Circular],
+      ],
+      "name": "root",
+      "namespace": "http://www.w3.org/1999/xhtml",
+      "next": null,
+      "parent": null,
+      "prev": null,
+      "type": "root",
+      "x-attribsNamespace": Object {},
+      "x-attribsPrefix": Object {},
+    },
+    "type": "tag",
+    "x-attribsNamespace": Object {},
+    "x-attribsPrefix": Object {},
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xml": false,
+  },
+}
+`;

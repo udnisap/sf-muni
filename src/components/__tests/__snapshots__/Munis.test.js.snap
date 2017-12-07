@@ -1,0 +1,1454 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Muni render with munis 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Munis
+    munis={
+        Array [
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "255",
+              "id": "6508",
+              "lat": "37.780327",
+              "lon": "-122.481476",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "18",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "210",
+              "id": "6521",
+              "lat": "37.788509",
+              "lon": "-122.402512",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "13",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "87",
+              "id": "6565",
+              "lat": "37.780518",
+              "lon": "-122.472618",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "14",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "84",
+              "id": "6593",
+              "lat": "37.784077",
+              "lon": "-122.433723",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "14",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "75",
+              "id": "6411",
+              "lat": "37.785824",
+              "lon": "-122.412758",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "51",
+              "speedKmHr": "31",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "84",
+              "id": "6616",
+              "lat": "37.784084",
+              "lon": "-122.433517",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "75",
+              "id": "6571",
+              "lat": "37.781246",
+              "lon": "-122.457359",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "34",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "75",
+              "id": "6700",
+              "lat": "37.779202",
+              "lon": "-122.502487",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "38",
+              "speedKmHr": "16",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "75",
+              "id": "6713",
+              "lat": "37.780239",
+              "lon": "-122.480225",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "38",
+              "speedKmHr": "21",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "218",
+              "id": "6707",
+              "lat": "37.790104",
+              "lon": "-122.392952",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "27",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "75",
+              "id": "6584",
+              "lat": "37.785694",
+              "lon": "-122.413612",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "16",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "218",
+              "id": "6292",
+              "lat": "37.78989",
+              "lon": "-122.392578",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "38",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "270",
+              "id": "6566",
+              "lat": "37.783474",
+              "lon": "-122.439331",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "27",
+              "speedKmHr": "2",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "255",
+              "id": "6542",
+              "lat": "37.779739",
+              "lon": "-122.494118",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "27",
+              "speedKmHr": "13",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "255",
+              "id": "6612",
+              "lat": "37.78384",
+              "lon": "-122.437935",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "38",
+              "speedKmHr": "21",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "261",
+              "id": "6548",
+              "lat": "37.787357",
+              "lon": "-122.40876",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "75",
+              "id": "6598",
+              "lat": "37.783138",
+              "lon": "-122.440292",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "51",
+              "speedKmHr": "14",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "178",
+              "id": "6569",
+              "lat": "37.779579",
+              "lon": "-122.50943",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "218",
+              "id": "6583",
+              "lat": "37.779411",
+              "lon": "-122.50946",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "51",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "267",
+              "id": "6551",
+              "lat": "37.780762",
+              "lon": "-122.472702",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "178",
+              "id": "6619",
+              "lat": "37.779251",
+              "lon": "-122.50946",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "14",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "42",
+              "id": "6506",
+              "lat": "37.792027",
+              "lon": "-122.397797",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "27",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "75",
+              "id": "6561",
+              "lat": "37.786427",
+              "lon": "-122.40696",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "38",
+              "speedKmHr": "2",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "315",
+              "id": "6549",
+              "lat": "37.791595",
+              "lon": "-122.394913",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "27",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "261",
+              "id": "6544",
+              "lat": "37.788052",
+              "lon": "-122.403252",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "38",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__I_F00",
+              "heading": "178",
+              "id": "6509",
+              "lat": "37.779045",
+              "lon": "-122.509445",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "14",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "218",
+              "id": "6568",
+              "lat": "37.78965",
+              "lon": "-122.392387",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "0",
+            },
+            Object {
+              "dirTag": "38R__O_F00",
+              "heading": "267",
+              "id": "6607",
+              "lat": "37.781178",
+              "lon": "-122.464142",
+              "predictable": "true",
+              "routeTag": "38R",
+              "secsSinceReport": "2",
+              "speedKmHr": "0",
+            },
+          ]
+    }
+    opts={
+        Object {
+            "center": Array [
+              -122.4156103593884,
+              37.757576707691854,
+            ],
+            "offset": Array [
+              892.3481572354682,
+              833.3687293139296,
+            ],
+            "scale": 533151.8917874214,
+          }
+    }
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "childFactory": [Function],
+      "children": Array [
+        <Muni
+          index="6508"
+          x={279.45151468529366}
+          y={565.5625688207219}
+/>,
+        <Muni
+          index="6521"
+          x={1014.2317435410805}
+          y={469.22761150210863}
+/>,
+        <Muni
+          index="6565"
+          x={361.8774716681801}
+          y={563.3138543028035}
+/>,
+        <Muni
+          index="6593"
+          x={723.8054008681793}
+          y={521.4113517337828}
+/>,
+        <Muni
+          index="6411"
+          x={918.8900913342368}
+          y={500.8420064961538}
+/>,
+        <Muni
+          index="6616"
+          x={725.7222835887223}
+          y={521.3289340339252}
+/>,
+        <Muni
+          index="6571"
+          x={503.8663718267344}
+          y={554.7427844299818}
+/>,
+        <Muni
+          index="6700"
+          x={83.93878244655207}
+          y={578.8074971612659}
+/>,
+        <Muni
+          index="6713"
+          x={291.09238984715194}
+          y={566.5986238159239}
+/>,
+        <Muni
+          index="6707"
+          x={1103.1899901835714}
+          y={450.4468218164984}
+/>,
+        <Muni
+          index="6584"
+          x={910.9434027743991}
+          y={502.3726556854672}
+/>,
+        <Muni
+          index="6292"
+          x={1106.6701558993664}
+          y={452.9666503738845}
+/>,
+        <Muni
+          index="6566"
+          x={671.6215256412979}
+          y={528.5110185838421}
+/>,
+        <Muni
+          index="6542"
+          x={161.81446928228252}
+          y={572.4852765121614}
+/>,
+        <Muni
+          index="6612"
+          x={684.6116629126482}
+          y={524.201774966903}
+/>,
+        <Muni
+          index="6548"
+          x={956.0925045222975}
+          y={482.7919171957765}
+/>,
+        <Muni
+          index="6598"
+          x={662.6791746974923}
+          y={532.4670267227339}
+/>,
+        <Muni
+          index="6569"
+          x={19.332390559837222}
+          y={574.3689969652914}
+/>,
+        <Muni
+          index="6583"
+          x={19.05323288193904}
+          y={576.3468990529655}
+/>,
+        <Muni
+          index="6551"
+          x={361.0958301704377}
+          y={560.4411424869322}
+/>,
+        <Muni
+          index="6619"
+          x={19.05323288193904}
+          y={578.23061114765}
+/>,
+        <Muni
+          index="6506"
+          x={1058.1060252271127}
+          y={427.80336205940694}
+/>,
+        <Muni
+          index="6561"
+          x={972.8419651871081}
+          y={493.74211389152333}
+/>,
+        <Muni
+          index="6549"
+          x={1084.9423833147157}
+          y={432.89024365588557}
+/>,
+        <Muni
+          index="6544"
+          x={1007.3458541566506}
+          y={474.6086157140089}
+/>,
+        <Muni
+          index="6509"
+          x={19.192811721004546}
+          y={580.6558844654355}
+/>,
+        <Muni
+          index="6568"
+          x={1108.4474597810768}
+          y={455.79261764505645}
+/>,
+        <Muni
+          index="6607"
+          x={440.74882088787854}
+          y={555.543382443022}
+/>,
+      ],
+      "component": "g",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": "6508",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6508",
+          "x": 279.45151468529366,
+          "y": 565.5625688207219,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6521",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6521",
+          "x": 1014.2317435410805,
+          "y": 469.22761150210863,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6565",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6565",
+          "x": 361.8774716681801,
+          "y": 563.3138543028035,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6593",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6593",
+          "x": 723.8054008681793,
+          "y": 521.4113517337828,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6411",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6411",
+          "x": 918.8900913342368,
+          "y": 500.8420064961538,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6616",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6616",
+          "x": 725.7222835887223,
+          "y": 521.3289340339252,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6571",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6571",
+          "x": 503.8663718267344,
+          "y": 554.7427844299818,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6700",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6700",
+          "x": 83.93878244655207,
+          "y": 578.8074971612659,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6713",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6713",
+          "x": 291.09238984715194,
+          "y": 566.5986238159239,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6707",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6707",
+          "x": 1103.1899901835714,
+          "y": 450.4468218164984,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6584",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6584",
+          "x": 910.9434027743991,
+          "y": 502.3726556854672,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6292",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6292",
+          "x": 1106.6701558993664,
+          "y": 452.9666503738845,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6566",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6566",
+          "x": 671.6215256412979,
+          "y": 528.5110185838421,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6542",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6542",
+          "x": 161.81446928228252,
+          "y": 572.4852765121614,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6612",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6612",
+          "x": 684.6116629126482,
+          "y": 524.201774966903,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6548",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6548",
+          "x": 956.0925045222975,
+          "y": 482.7919171957765,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6598",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6598",
+          "x": 662.6791746974923,
+          "y": 532.4670267227339,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6569",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6569",
+          "x": 19.332390559837222,
+          "y": 574.3689969652914,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6583",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6583",
+          "x": 19.05323288193904,
+          "y": 576.3468990529655,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6551",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6551",
+          "x": 361.0958301704377,
+          "y": 560.4411424869322,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6619",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6619",
+          "x": 19.05323288193904,
+          "y": 578.23061114765,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6506",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6506",
+          "x": 1058.1060252271127,
+          "y": 427.80336205940694,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6561",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6561",
+          "x": 972.8419651871081,
+          "y": 493.74211389152333,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6549",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6549",
+          "x": 1084.9423833147157,
+          "y": 432.89024365588557,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6544",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6544",
+          "x": 1007.3458541566506,
+          "y": 474.6086157140089,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6509",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6509",
+          "x": 19.192811721004546,
+          "y": 580.6558844654355,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6568",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6568",
+          "x": 1108.4474597810768,
+          "y": 455.79261764505645,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6607",
+        "nodeType": "class",
+        "props": Object {
+          "index": "6607",
+          "x": 440.74882088787854,
+          "y": 555.543382443022,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "childFactory": [Function],
+        "children": Array [
+          <Muni
+            index="6508"
+            x={279.45151468529366}
+            y={565.5625688207219}
+/>,
+          <Muni
+            index="6521"
+            x={1014.2317435410805}
+            y={469.22761150210863}
+/>,
+          <Muni
+            index="6565"
+            x={361.8774716681801}
+            y={563.3138543028035}
+/>,
+          <Muni
+            index="6593"
+            x={723.8054008681793}
+            y={521.4113517337828}
+/>,
+          <Muni
+            index="6411"
+            x={918.8900913342368}
+            y={500.8420064961538}
+/>,
+          <Muni
+            index="6616"
+            x={725.7222835887223}
+            y={521.3289340339252}
+/>,
+          <Muni
+            index="6571"
+            x={503.8663718267344}
+            y={554.7427844299818}
+/>,
+          <Muni
+            index="6700"
+            x={83.93878244655207}
+            y={578.8074971612659}
+/>,
+          <Muni
+            index="6713"
+            x={291.09238984715194}
+            y={566.5986238159239}
+/>,
+          <Muni
+            index="6707"
+            x={1103.1899901835714}
+            y={450.4468218164984}
+/>,
+          <Muni
+            index="6584"
+            x={910.9434027743991}
+            y={502.3726556854672}
+/>,
+          <Muni
+            index="6292"
+            x={1106.6701558993664}
+            y={452.9666503738845}
+/>,
+          <Muni
+            index="6566"
+            x={671.6215256412979}
+            y={528.5110185838421}
+/>,
+          <Muni
+            index="6542"
+            x={161.81446928228252}
+            y={572.4852765121614}
+/>,
+          <Muni
+            index="6612"
+            x={684.6116629126482}
+            y={524.201774966903}
+/>,
+          <Muni
+            index="6548"
+            x={956.0925045222975}
+            y={482.7919171957765}
+/>,
+          <Muni
+            index="6598"
+            x={662.6791746974923}
+            y={532.4670267227339}
+/>,
+          <Muni
+            index="6569"
+            x={19.332390559837222}
+            y={574.3689969652914}
+/>,
+          <Muni
+            index="6583"
+            x={19.05323288193904}
+            y={576.3468990529655}
+/>,
+          <Muni
+            index="6551"
+            x={361.0958301704377}
+            y={560.4411424869322}
+/>,
+          <Muni
+            index="6619"
+            x={19.05323288193904}
+            y={578.23061114765}
+/>,
+          <Muni
+            index="6506"
+            x={1058.1060252271127}
+            y={427.80336205940694}
+/>,
+          <Muni
+            index="6561"
+            x={972.8419651871081}
+            y={493.74211389152333}
+/>,
+          <Muni
+            index="6549"
+            x={1084.9423833147157}
+            y={432.89024365588557}
+/>,
+          <Muni
+            index="6544"
+            x={1007.3458541566506}
+            y={474.6086157140089}
+/>,
+          <Muni
+            index="6509"
+            x={19.192811721004546}
+            y={580.6558844654355}
+/>,
+          <Muni
+            index="6568"
+            x={1108.4474597810768}
+            y={455.79261764505645}
+/>,
+          <Muni
+            index="6607"
+            x={440.74882088787854}
+            y={555.543382443022}
+/>,
+        ],
+        "component": "g",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "6508",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6508",
+            "x": 279.45151468529366,
+            "y": 565.5625688207219,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6521",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6521",
+            "x": 1014.2317435410805,
+            "y": 469.22761150210863,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6565",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6565",
+            "x": 361.8774716681801,
+            "y": 563.3138543028035,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6593",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6593",
+            "x": 723.8054008681793,
+            "y": 521.4113517337828,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6411",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6411",
+            "x": 918.8900913342368,
+            "y": 500.8420064961538,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6616",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6616",
+            "x": 725.7222835887223,
+            "y": 521.3289340339252,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6571",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6571",
+            "x": 503.8663718267344,
+            "y": 554.7427844299818,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6700",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6700",
+            "x": 83.93878244655207,
+            "y": 578.8074971612659,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6713",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6713",
+            "x": 291.09238984715194,
+            "y": 566.5986238159239,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6707",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6707",
+            "x": 1103.1899901835714,
+            "y": 450.4468218164984,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6584",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6584",
+            "x": 910.9434027743991,
+            "y": 502.3726556854672,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6292",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6292",
+            "x": 1106.6701558993664,
+            "y": 452.9666503738845,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6566",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6566",
+            "x": 671.6215256412979,
+            "y": 528.5110185838421,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6542",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6542",
+            "x": 161.81446928228252,
+            "y": 572.4852765121614,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6612",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6612",
+            "x": 684.6116629126482,
+            "y": 524.201774966903,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6548",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6548",
+            "x": 956.0925045222975,
+            "y": 482.7919171957765,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6598",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6598",
+            "x": 662.6791746974923,
+            "y": 532.4670267227339,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6569",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6569",
+            "x": 19.332390559837222,
+            "y": 574.3689969652914,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6583",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6583",
+            "x": 19.05323288193904,
+            "y": 576.3468990529655,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6551",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6551",
+            "x": 361.0958301704377,
+            "y": 560.4411424869322,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6619",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6619",
+            "x": 19.05323288193904,
+            "y": 578.23061114765,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6506",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6506",
+            "x": 1058.1060252271127,
+            "y": 427.80336205940694,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6561",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6561",
+            "x": 972.8419651871081,
+            "y": 493.74211389152333,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6549",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6549",
+            "x": 1084.9423833147157,
+            "y": 432.89024365588557,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6544",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6544",
+            "x": 1007.3458541566506,
+            "y": 474.6086157140089,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6509",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6509",
+            "x": 19.192811721004546,
+            "y": 580.6558844654355,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6568",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6568",
+            "x": 1108.4474597810768,
+            "y": 455.79261764505645,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6607",
+          "nodeType": "class",
+          "props": Object {
+            "index": "6607",
+            "x": 440.74882088787854,
+            "y": 555.543382443022,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
+
+exports[`Muni render without munis 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Munis
+    munis={Array []}
+    opts={
+        Object {
+            "center": Array [
+              -122.4156103593884,
+              37.757576707691854,
+            ],
+            "offset": Array [
+              892.3481572354682,
+              833.3687293139296,
+            ],
+            "scale": 533151.8917874214,
+          }
+    }
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "childFactory": [Function],
+      "children": Array [],
+      "component": "g",
+    },
+    "ref": null,
+    "rendered": Array [],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "childFactory": [Function],
+        "children": Array [],
+        "component": "g",
+      },
+      "ref": null,
+      "rendered": Array [],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;

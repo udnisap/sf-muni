@@ -16,6 +16,14 @@ class SelectionForm extends Component {
           <p>
             To Check a specific route, use the dropdown below.
           </p>
+          <p class="alert alert-warning">
+            This demo doesnt work as this website is on https but the next bus api is not supporting https. :(
+            <br />
+            Download the source code and run locally to view it from
+            <a href="https://github.com/udnisap/sf-muni">
+              https://github.com/udnisap/sf-muni
+            </a>
+          </p>
           <FormGroup controlId="formControlsSelectMultiple">
             <ControlLabel>Select a Route</ControlLabel>
             <FormControl

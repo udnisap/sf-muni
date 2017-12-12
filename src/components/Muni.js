@@ -64,7 +64,7 @@ class Muni extends Component {
         cx={x}
         cy={y}
         r={5}
-        className={this.state.className}
+        className="muni"
         style={{ fillOpacity: alpha }}
       />
     );

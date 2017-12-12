@@ -13,9 +13,9 @@ const GeoMap = ({
   const path = geoPath().projection(projection);
   return (
     <g>
-      {neighborhoods.features.map((neighborhood, i) => (
-        <path key={i} d={path(neighborhood)} className="neighborhood" />
-      ))}
+      {/* {neighborhoods.features.map((neighborhood, i) => ( */}
+      {/*   <path key={i} d={path(neighborhood)} className="neighborhood" /> */}
+      {/* ))} */}
       {arteries.features.map((artery, i) => (
         <path key={i} d={path(artery)} className="arteries" />
       ))}
